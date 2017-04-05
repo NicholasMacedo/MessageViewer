@@ -78,6 +78,7 @@ Tag Format: ._(*flags*) where _ is a letter depending on what the tag specifies.
   	* size=#x# : Determines the size of the image. WitdhxHeight respectively in pixels.
   	* Default : Height and Width of 100.
 * Radio Form: Creates a form of radio buttons for the user to select one.
+   * .r() : The Tag
  	* action="filename" : Where the form goes on push of the select button.
  	* name="name" : Name of the form value / result.
  	* value="value" : The value / name of each option.
