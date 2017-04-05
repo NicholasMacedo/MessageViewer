@@ -1,0 +1,6 @@
+.d()
+.t(text="Sample Text...")
+.h(size=3,text="Cats").p(image="cat.jpg").d().p(image="cat.jpg")
+.t(file="sample.txt")
+.b(name="Sample Button",link="sample.html")
+.l(link="https://www.google.ca/")

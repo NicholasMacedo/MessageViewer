@@ -1,0 +1,98 @@
+body {
+  font-size: 16px;
+  font-family: Arial;
+  background-color: #0D0905;
+  /*background-image: url(http://www.uoguelph.ca/vpacademic/fys/images/mccuaig_sm.jpg);
+  background-repeat: repeat;*/
+  color: #F3E6E1;
+  margin: 0 auto !important;
+
+}
+
+/* Typography */
+.centerButton {
+  text-align: center;
+}
+
+.bigDiv{
+  background-color: #6E0D25;
+  border-radius: 1em;
+  margin: 0em 2em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  text-align: center;
+}
+
+.submitButton {
+  padding: 0.25em 0.5em;
+  color: #F3E6E1;
+  background-color: #6E0D25;
+  border: solid 2px #F3E6E1;
+  margin: 0.5em;
+  border-radius: 1em;
+}
+
+.addAuthor {
+  text-align: center;
+  background-color: #2F2E2D;
+  padding: 0.75em;
+  border-radius: 2em;
+  margin: 0% 20%;
+  margin-bottom: 1em;
+}
+
+hr {
+  margin-right: 2em;
+  margin-left: 2em;
+  border-top: 3px solid #F3E6E1;
+}
+
+textarea {
+  color: #0D0905;
+}
+
+form{
+  font-size: 1.3em;
+}
+
+input{
+  margin-bottom: 1em;
+  border-radius: 0.5em;
+  color: #0D0905;
+  border: 2px solid #F3E6E1;
+}
+
+
+.button{
+  color: #F3E6E1;
+  padding: 0.75em;
+  background-color: #6E0D25;
+  border: solid #F3E6E1;
+  border-radius: 5em;
+  margin-right: 0.25em;
+  margin-left: 0.25em;
+}
+
+p {
+  font-size: 1.3em;
+}
+
+h1 {
+  font-size: 5em;
+  margin-bottom: 0.1em;
+  text-align: center;
+}
+
+h2 {
+  font-size: 3em;
+  margin-bottom: 0.5em;
+  text-align: center;
+}
+
+h3 {
+  font-size: 2.5em;
+}
+
+h4 {
+  font-size: 1em;
+}
